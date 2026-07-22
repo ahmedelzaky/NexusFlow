@@ -13,7 +13,7 @@ The NexusFlow ecosystem is modularized into four main sub-repositories:
 | :--- | :--- | :--- |
 | 🌐 **[NexusFlow Frontend](https://github.com/ahmedelzaky/nexusflow-frontend)** | React, React Flow, CSS | Visual drag-and-drop flow editor, device management dashboard, and real-time telemetry visualizations. |
 | ⚙️ **[NexusFlow Backend](https://github.com/ahmed-atef-gad/nexusflow-backend)** | NestJS, TypeScript, MongoDB, Aedes (MQTT) | Control plane hosting REST APIs, embedded MQTT broker, VM JavaScript sandbox, and FCM notification engine. |
-| 📱 **[NexusFlow Mobile](https://github.com/ahmadkasimeng/nexusflow-mobile)** | React Native, Firebase SDK | Native mobile app for receiving push notifications, incident tracking, and acknowledgment handshakes. |
+| 📱 **[NexusFlow Mobile](https://github.com/ahmadkasimeng/nexusflow_mobile_public)** | React Native, Firebase SDK | Native mobile app for receiving push notifications, incident tracking, and acknowledgment handshakes. |
 | 🔌 **[ESP32 IoT Firmware](https://github.com/ahmedelzaky/ESP32_iot_firmware)** | C++ (Arduino / FreeRTOS) | Standardized firmware image running on ESP32 microcontrollers that pulls dynamic setup profiles and executes tasks. |
 
 ---
